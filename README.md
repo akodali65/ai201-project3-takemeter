@@ -191,3 +191,8 @@ Human judgment was used to verify all labels and explanations.
 The project specification helped guide label design and evaluation requirements. It encouraged detailed error analysis rather than focusing only on overall accuracy.
 
 Implementation differed from the original expectation because the fine-tuned DistilBERT model performed substantially worse than the Groq baseline. Instead of optimizing aggressively, I kept the original setup and used the resulting mistakes to perform a more thorough error analysis.
+
+## Demo Video
+
+Google Drive link:
+https://drive.google.com/file/d/1U2QoVA8I9nxWzg15eNsGue__ePhrqmT6/view?usp=drive_link
